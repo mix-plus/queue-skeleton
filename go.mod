@@ -1,6 +1,6 @@
 module github.com/mix-plus/queue-skeleton
 
-go 1.19
+go 1.17
 
 require (
 	github.com/hibiken/asynq v0.23.0
